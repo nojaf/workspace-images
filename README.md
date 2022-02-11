@@ -41,8 +41,8 @@ Each contains a set of chunks: a common base, a language, and includes Docker an
 1. gitpod/workspace-c ✅
 1. gitpod/workspace-clojure ✅
 1. gitpod/workspace-go ✅
-1. gitpod/workspace-java-11
-1. gitpod/workspace-java-17
+1. gitpod/workspace-java-11 ✅
+1. gitpod/workspace-java-17 ✅
 1. gitpod/workspace-node ✅
 1. gitpod/workspace-node-lts ✅
 1. gitpod/workspace-python ✅
